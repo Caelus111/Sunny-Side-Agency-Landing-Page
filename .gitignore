@@ -4,4 +4,4 @@
 .DS_Store
 .prettierignore
 node_modules
-style-guides.md
+style-guide.md
